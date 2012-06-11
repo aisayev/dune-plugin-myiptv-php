@@ -1,1 +1,1 @@
-0.9b (http://blog.isayev.org.ua)
+1.0 (http://blog.isayev.org.ua)
