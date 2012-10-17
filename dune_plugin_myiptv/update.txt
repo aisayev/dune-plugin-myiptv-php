@@ -1,5 +1,5 @@
-version_index=4
-version=2.1.1
+version_index=5
+version=2.2
 download_url=http://blog-isayev-org-ua.googlecode.com/svn/trunk/dune_plugin_myiptv/update.tgz
-space_needed=400000
+space_needed=1100000
 last_critical_version_index=1
